@@ -1,0 +1,17 @@
+<unit-test>
+    <artifacts>
+        <test-artifact>
+            <artifact>src/main/wso2mi/artifacts/apis/hello.xml</artifact>
+        </test-artifact>
+        <supportive-artifacts>
+        </supportive-artifacts>
+        <registry-resources>
+        </registry-resources>
+        <connector-resources>
+        </connector-resources>
+    </artifacts>
+    <test-cases>
+    </test-cases>
+    <mock-services>
+    </mock-services>
+</unit-test>

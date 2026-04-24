@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localEntry key="test-con" xmlns="http://ws.apache.org/ns/synapse">
+  <http.init>
+    <connectionType>HTTPS</connectionType>
+    <baseUrl>https://mocki.io/v1/a406b5c4-7cd5-45ae-8159-0ed0205b0087</baseUrl>
+    <certificateConfigurable/>
+    <authType>None</authType>
+    <timeoutDuration/>
+    <timeoutAction>Never</timeoutAction>
+    <retryErrorCodes/>
+    <retryCount>0</retryCount>
+    <retryDelay>0</retryDelay>
+    <suspendErrorCodes/>
+    <suspendInitialDuration>-1</suspendInitialDuration>
+    <suspendProgressionFactor>1</suspendProgressionFactor>
+    <suspendMaximumDuration/>
+    <name>test-con</name>
+  </http.init>
+</localEntry>
